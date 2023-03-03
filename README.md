@@ -1,10 +1,15 @@
 ### Hi there/Olá, eu sou o Bruno 👋
 
 - 🔭 I’m currently working on Front-End
+- 🔭 Estou atualmente estudando/trabalhando em Front End
+- 
 - 🌱 I’m currently learning Front-End and Unreal 5 for knowledge
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning Front-End and Unreal 5 for knowledge
 
-- ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate on ...
+- 👯 Estou procurando oportunidades na area de desenvolvimento e montando um estudio de fotografia meu
+
+- ⚡ Fun fact: my first university was in cinema!
 
 <div align="center">
   <a href="https://github.com/BrunoOchoa">
