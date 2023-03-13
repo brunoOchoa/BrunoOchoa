@@ -4,12 +4,13 @@
 - 🔭 Estou atualmente estudando/trabalhando em Front End
 - 
 - 🌱 I’m currently learning Front-End and Unreal 5 for knowledge
-- 🌱 I’m currently learning Front-End and Unreal 5 for knowledge
+- 🌱 Estou atualmente aprendendo programaçao para Front End e Engine Unreal 5 com C++
 
 - 👯 I’m looking to collaborate on ...
 - 👯 Estou procurando oportunidades na area de desenvolvimento e montando um estudio de fotografia meu
 
 - ⚡ Fun fact: my first university was in cinema!
+- ⚡ Fato curioso, minha primeira faculdade foi de Cinema. 
 
 <div align="center">
   <a href="https://github.com/BrunoOchoa">
