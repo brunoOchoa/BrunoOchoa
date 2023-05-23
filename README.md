@@ -1,7 +1,7 @@
 ### Hi there/Olá, eu sou o Bruno 👋
 
-- 🔭 I’m currently working on Front-End and GoLang
-- 🔭 Estou atualmente estudando/trabalhando em Front End e Golang
+- 🔭 I’m currently working with Golang/back-end
+- 🔭 Estou atualmente estudando/trabalhando Golang/back-end
 - 
 - 🌱 I’m currently learning Golang, Front-End and Unreal 5 for knowledge
 - 🌱 Estou atualmente aprendendo programaçao para Golang, Front End e Engine Unreal 5 com C++
